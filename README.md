@@ -2,6 +2,9 @@
 
 ###
 
+<p align="left">My name is Alan Tenorio, I'm Back-end developer with Golang, from Brazil/Pernambuco</p>
+
+###
 
 <h2 align="left">I code with</h2>
 
@@ -21,9 +24,6 @@
 
 ###
 
-<p align="left">My name is Alan Tenorio, I'm Back-end developer with Golang, from Brazil/Pernambuco</p>
-
-###
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk5c2h5dno5NGY1a212Y3Q2dTg0OWxxcThyOXE3Ynl2NjVsMHJtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/McIBYFNF5pkayHj6vl/giphy.gif"  />
 
 ###
