@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="12" />https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXplcGR5a2lzZ29mcTU3c3kzN2Q1cXZ0M2ZibW5pOHBsbmYxcnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
@@ -37,7 +37,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXplcGR5a2lzZ29mcTU3c3kzN2Q1cXZ0M2ZibW5pOHBsbmYxcnExcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif"  />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1hcHQ3b2h4cHhydDl4cHUwM202cXVwb3h1bWt0MmE1c2U4YWRnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgGpnYeMVljm1vRA6g/giphy.gif"  />
 
 ###
 
