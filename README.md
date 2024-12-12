@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&&width=600&lines=Olá+me+chamo+Miguel.;Seja+bem+vindo.;Bolo+de+fubá.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=#ffffff&&width=600&lines=Hey+What's+Up+???.;Alan+Tenório.)
 
 ###
 
