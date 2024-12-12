@@ -2,9 +2,6 @@
 
 ###
 
-<p align="left">My name is Alan Tenorio, I'm Back-end developer with Golang, from Brazil/Pernambuco</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
