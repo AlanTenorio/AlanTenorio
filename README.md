@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanTenorio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanTenorio&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&custom_title=Most%20used%20Languages" height="200" alt="languages graph"  />
 </div>
 
 ###
