@@ -1,4 +1,4 @@
-<h1 align="left">Hey What's Up ??</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&&width=600&lines=What's+up+??.;Welcome.; Alan+Tenório.)
 
 ###
 
