@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alan Tenorio, I'm Back-end developer with Golang</p>
+<p align="left">My name is Alan Tenorio</p>
 
 ###
 
