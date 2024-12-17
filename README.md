@@ -5,7 +5,7 @@
 <p>I really appreciate the practicality that the Golang ecosystem can offer .</p>
 <div style="display: flex;">
     <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTenorio&hide_progress=true&theme=aura" alt="ilustração do status do github">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=aura">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlanTenorio&show_icons=true&theme=aura">
 </div>
 
 # Learning
