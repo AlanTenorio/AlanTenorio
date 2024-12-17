@@ -1,47 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=header&reversal=false"/>
 
-
-
-###
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=ffffff&&width=600&lines=Hey+What's+Up+???.;Alan+Tenório.)
 
-###
-
-<p align="left">My name is Alan Tenorio</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=976FEC&size=35&center=true&vCenter=true&width=1000&lines=+Prazer+me+chamo+Jean,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+<p>Atualmente, sou estagiário na área de dados, onde aplico técnicas de análise e manipulação de dados. Este GitHub é meu espaço para compartilhar projetos relacionados a ciência de dados, machine learning entre outros.</p>
+<div style="display: flex;">
+    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAlexandreTI&hide_progress=true&theme=aura" alt="ilustração do status do github">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JeanAlexandreTI&show_icons=true&theme=aura">
 </div>
 
-###
+# Learning
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="90" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/900px-Python_logo_01.svg.png?20210503135843" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<br>
+<br>
 
-<h2 align="left">Contact</h2>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/jean-cabral-537969294/">
+    <img src="https://img.shields.io/badge/-Linkedin-976FEC?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
+  </a>
 </div>
 
-###
+</div>
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
 
