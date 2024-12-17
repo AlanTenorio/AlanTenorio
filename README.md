@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=header&reversal=false"/>
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=976FEC&&width=600&lines=Hey+What's+Up+???.;Alan+Tenório.)
+
 <p>I really appreciate the practicality that the Golang ecosystem can offer .</p>
 <div style="display: flex;">
     <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTenorio&hide_progress=true&theme=aura" alt="ilustração do status do github">
