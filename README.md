@@ -43,15 +43,5 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1hcHQ3b2h4cHhydDl4cHUwM202cXVwb3h1bWt0MmE1c2U4YWRnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgGpnYeMVljm1vRA6g/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanTenorio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=midnight-purple&hide_border=true&order=2" height="172" alt="languages graph"  />
-</div>
-
-###
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
 
