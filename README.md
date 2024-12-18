@@ -21,14 +21,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
 </div>
 
-<br>
-###
+<!--
 <div align="center">
- <!-- <a href="https://www.linkedin.com/in/jean-cabral-537969294/">
+  <a href="https://www.linkedin.com/in/jean-cabral-537969294/">
     <img src="https://img.shields.io/badge/-Linkedin-976FEC?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
-  </a> --->
+  </a> 
 </div>
-</div>
+</div>--->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
 
