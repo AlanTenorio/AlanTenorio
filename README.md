@@ -27,9 +27,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jean-cabral-537969294/">
+ <!-- <a href="https://www.linkedin.com/in/jean-cabral-537969294/">
     <img src="https://img.shields.io/badge/-Linkedin-976FEC?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
-  </a>
+  </a> --->
 </div>
 
 </div>
