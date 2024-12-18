@@ -22,18 +22,13 @@
 </div>
 
 <br>
-<br>
-
 ###
-
 <div align="center">
  <!-- <a href="https://www.linkedin.com/in/jean-cabral-537969294/">
     <img src="https://img.shields.io/badge/-Linkedin-976FEC?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
   </a> --->
 </div>
-
 </div>
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
 
