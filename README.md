@@ -22,4 +22,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Tenório&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
