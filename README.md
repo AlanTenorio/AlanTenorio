@@ -13,10 +13,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jean-cabral-537969294/">
-    <img src="https://img.shields.io/badge/-Linkedin-976FEC?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
-  </a> 
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original-wordmark.svg" />        
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
